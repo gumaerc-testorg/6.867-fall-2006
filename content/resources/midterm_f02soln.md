@@ -2,8 +2,13 @@
 content_type: resource
 description: Solutions to a mid-term exam on machine learning and neural networks
   from Fall 2002.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-867-machine-learning-fall-2006/54259bd801ab4823d969bb836624cf59_midterm_f02soln.pdf
+file: /media/courses/6-867-machine-learning-fall-2006/54259bd801ab4823d969bb836624cf59_midterm_f02soln.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: midterm_f02soln.pdf
 uid: 54259bd8-01ab-4823-d969-bb836624cf59

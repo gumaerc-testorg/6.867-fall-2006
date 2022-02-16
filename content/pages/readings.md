@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 6ae2f40b-8860-27fe-503d-f28d7cac926a
 ---
@@ -206,7 +209,7 @@ Boosting, margin, and complexity
 
 ### Optional
 
-Schapire, Robert. "A Brief Introduction to Boosting." Proceedings of the 16th International Joint Conference on Artificial Intelligence, 1999, pp. 1401-1406.
+Schapire, Robert. "A Brief Introduction to Boosting." Proceedings of the 16{{< sup "th" >}} International Joint Conference on Artificial Intelligence, 1999, pp. 1401-1406.
 
 
 {{< tdclose >}}
