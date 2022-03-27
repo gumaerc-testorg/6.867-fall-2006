@@ -23,6 +23,6 @@ Resources
 Sample Scripts
 --------------
 
-*   Matrix Operations: matrix.m ([M](/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/tools/matrix.m))
-*   File Operations: files.m ([M](/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/tools/files.m))
-*   Plotting/Graphing: plot.m ([M](/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/tools/plot.m))
+*   Matrix Operations: matrix.m ([M]({{< baseurl >}}/resources/matrix))
+*   File Operations: files.m ([M]({{< baseurl >}}/resources/files))
+*   Plotting/Graphing: plot.m ([M]({{< baseurl >}}/resources/plot))

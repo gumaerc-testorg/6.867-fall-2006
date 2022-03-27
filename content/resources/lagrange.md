@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 6ae2f40b-8860-27fe-503d-f28d7cac926a
 resourcetype: Document
 title: lagrange.pdf
 uid: 47e2537d-b924-8268-c9e2-0bbaa98f0c4b

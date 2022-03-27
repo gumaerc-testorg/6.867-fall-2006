@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 30f9de6f-e695-deaf-36b1-b7a58db16f7b
 resourcetype: Document
 title: midterm_f03soln.pdf
 uid: a5dae01d-2463-2b23-c275-5e6eb7e0b4ad
