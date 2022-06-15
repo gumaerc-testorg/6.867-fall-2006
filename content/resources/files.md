@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sample MATLAB? script.
-file: /media/courses/6-867-machine-learning-fall-2006/3539a05b130385ceaa480af2d06f6817_files.m
+file: /courses/6-867-machine-learning-fall-2006/3539a05b130385ceaa480af2d06f6817_files.m
 file_type: text/plain
 learning_resource_types:
 - Tools
@@ -13,3 +13,5 @@ resourcetype: Other
 title: files.m
 uid: 3539a05b-1303-85ce-aa48-0af2d06f6817
 ---
+Sample MATLAB? script.
+

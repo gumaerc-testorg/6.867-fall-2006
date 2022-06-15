@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set errata.
-file: /media/courses/6-867-machine-learning-fall-2006/66f8a15c4d23616716c77c6b302161be_hw1errata.txt
+file: /courses/6-867-machine-learning-fall-2006/66f8a15c4d23616716c77c6b302161be_hw1errata.txt
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: hw1errata.txt
 uid: 66f8a15c-4d23-6167-16c7-7c6b302161be
 ---
+Problem set errata.
+

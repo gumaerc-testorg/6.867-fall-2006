@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: MATLAB? script for a problem set.
-file: /media/courses/6-867-machine-learning-fall-2006/573cb09037084bf30bbd8fc205137654_perceptron_test.m
+file: /courses/6-867-machine-learning-fall-2006/573cb09037084bf30bbd8fc205137654_perceptron_test.m
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: perceptron_test.m
 uid: 573cb090-3708-4bf3-0bbd-8fc205137654
 ---
+MATLAB? script for a problem set.
+

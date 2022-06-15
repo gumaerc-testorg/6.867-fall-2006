@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: This section provides information on readings assigned for the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 6ae2f40b-8860-27fe-503d-f28d7cac926a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -125,7 +130,7 @@ Support vector machine (SVM) and kernels, kernel optimization
 {{< tdopen >}}
 
 
-Short tutorial on Lagrange multipliers ([PDF]({{< baseurl >}}/resources/lagrange))
+Short tutorial on Lagrange multipliers ({{% resource_link 47e2537d-b924-8268-c9e2-0bbaa98f0c4b "PDF" %}})
 
 ### Optional
 

@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: This section provides information on the course project assignment, including
+  examples of topics.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
 title: Projects
 uid: e89777f8-092d-b89d-df47-fb2ea8979ce2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The choice of topic for the class project is up to you so long as it clearly pertains to the course material. It is fine to select a topic that is related to your area of research so long as you can isolate a part that is not carried out in collaboration with people outside the class. You are encouraged to collaborate on the project but this is by no means required. We expect a **four page write-up** about the project, which should clearly and succinctly describe the project goal, methods, and your results. You can refer to (and provide) supplementary material if you wish but the 4-page description should be detailed enough so that the project can be graded only on the basis of the write-up. A two person group will have 6 pages, a three person group will have 8 pages, and so on. The page limit and at least 11pt font is necessary (and will be enforced) to ensure that we will be able to read through everyone's project carefully. Each group should submit only one copy of the write-up and include all the names of the group members. The projects will be graded on the basis of your understanding of the overall course material (not based on, e.g., how brilliantly your method works). The scope of the project is about 1-2 problem sets.

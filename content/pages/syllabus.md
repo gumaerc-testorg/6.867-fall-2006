@@ -1,9 +1,16 @@
 ---
 content_type: page
+description: The syllabus section provides the course description and information
+  about problem sets, exams, the course project, grading, course texts, recommended
+  citation, and the course calendar.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 598a6a4b-63f1-f30a-59bb-41fe29fdbbc1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
