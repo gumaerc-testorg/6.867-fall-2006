@@ -5,6 +5,7 @@ file: /courses/6-867-machine-learning-fall-2006/1ad9ace4da67d4c396fa56c250dc2b12
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on hidden Markov models.
-

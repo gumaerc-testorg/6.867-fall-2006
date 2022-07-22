@@ -6,6 +6,7 @@ file: /courses/6-867-machine-learning-fall-2006/1b55295adbca700abfa7356a4f832e33
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on the kernel form of linear regression, kernels, examples, construction, and properties.
-

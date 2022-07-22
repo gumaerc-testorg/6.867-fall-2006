@@ -5,6 +5,7 @@ file: /courses/6-867-machine-learning-fall-2006/1c1464b867d0f5922d9c8f184352121f
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: plot.m
 uid: 1c1464b8-67d0-f592-2d9c-8f184352121f
 ---
 Sample MATLAB? script.
-

@@ -6,6 +6,7 @@ file: /courses/6-867-machine-learning-fall-2006/9e7f8fb89d65d7572980907fd6d12315
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on linear regression, estimator bias and variance, and active learning.
-

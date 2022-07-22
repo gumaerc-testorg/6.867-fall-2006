@@ -5,6 +5,7 @@ file: /courses/6-867-machine-learning-fall-2006/e24fa1516658ce746005759d17b9a441
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: matrix.m
 uid: e24fa151-6658-ce74-6005-759d17b9a441
 ---
 Sample MATLAB? script.
-

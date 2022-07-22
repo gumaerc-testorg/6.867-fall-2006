@@ -5,6 +5,7 @@ file: /courses/6-867-machine-learning-fall-2006/33a6c8e66c62602f9f03ab6a2c632eed
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on support vector machine (SVM), kernels, and kernel optimization.
-

@@ -6,6 +6,7 @@ file: /courses/6-867-machine-learning-fall-2006/44b0ad92b2f9d58e590783fa97b5edf3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on margin and generalization, linear classifiers, ensembles, and mixture models.
-

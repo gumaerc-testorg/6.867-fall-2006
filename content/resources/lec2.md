@@ -5,6 +5,7 @@ file: /courses/6-867-machine-learning-fall-2006/df535ce359aad52f48c203db64558fe8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on perceptron, convergence, and generalization.
-

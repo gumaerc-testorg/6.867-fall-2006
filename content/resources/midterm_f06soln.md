@@ -6,6 +6,7 @@ file: /courses/6-867-machine-learning-fall-2006/ffb24092649a63cd06dd4c3443ae9f2a
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Solutions to a mid-term exam on machine learning and neural networks from Fall 2006.
-

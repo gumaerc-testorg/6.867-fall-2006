@@ -5,6 +5,7 @@ file: /courses/6-867-machine-learning-fall-2006/b1139f1648df9d4cfe7fd4cc09c3b259
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on Markov random fields and probabilistic inference.
-

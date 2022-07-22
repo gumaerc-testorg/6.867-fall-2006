@@ -5,6 +5,7 @@ file: /courses/6-867-machine-learning-fall-2006/1eedc5b3427ca3eef198d707f016f295
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on active learning, non-linear predictions, and kernals.
-

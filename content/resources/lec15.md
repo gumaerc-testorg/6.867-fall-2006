@@ -6,6 +6,7 @@ file: /courses/6-867-machine-learning-fall-2006/a5a5b7b5a8c2eb7d7d23eac5c7f3a9af
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on different types of mixture models, estimating mixtures, and the EM algorithm.
-

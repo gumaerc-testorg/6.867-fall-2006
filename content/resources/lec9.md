@@ -5,6 +5,7 @@ file: /courses/6-867-machine-learning-fall-2006/2051efc0159bf145f2050469b7589fc5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on kernel optimization and model selection.
-

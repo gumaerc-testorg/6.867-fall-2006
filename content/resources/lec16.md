@@ -7,6 +7,7 @@ file: /courses/6-867-machine-learning-fall-2006/735de5b1396c8364cc51a5b1d479760e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on mixture of Gaussians, the EM algorithm, additional mixture topics, regularization, stage-wise mixtures, conditional mixtures, and mixture models and clustering.
-

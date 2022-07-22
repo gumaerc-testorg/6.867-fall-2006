@@ -5,6 +5,7 @@ file: /courses/6-867-machine-learning-fall-2006/45588b13b66dea8ca5ff7e27f10099f7
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hw2errata.txt
 uid: 45588b13-b66d-ea8c-a5ff-7e27f10099f7
 ---
 Problem set errata.
-

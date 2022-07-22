@@ -5,6 +5,7 @@ file: /courses/6-867-machine-learning-fall-2006/c0becfe9e6d659575a8c9e30b90f55dd
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on Bayesian networks.
-

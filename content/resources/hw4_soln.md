@@ -5,6 +5,7 @@ file: /courses/6-867-machine-learning-fall-2006/ebc7892b924d0778dce0580bc121c9f2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Problem set solutions.
-
