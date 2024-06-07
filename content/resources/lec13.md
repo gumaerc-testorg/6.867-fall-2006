@@ -3,6 +3,7 @@ content_type: resource
 description: This resource explains about boosting, margin, gradient descent, complexity
   of classifiers, and generalization.
 file: /courses/6-867-machine-learning-fall-2006/616f1abe4c4fec09907aa27e5a81f18d_lec13.pdf
+file_size: 203762
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

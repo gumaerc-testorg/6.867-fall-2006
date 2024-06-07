@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on margin and generalization, linear classifiers, ensembles,
   and mixture models.
 file: /courses/6-867-machine-learning-fall-2006/44b0ad92b2f9d58e590783fa97b5edf3_lec14.pdf
+file_size: 147439
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

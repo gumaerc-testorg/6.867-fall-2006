@@ -2,6 +2,7 @@
 content_type: resource
 description: MATLAB? script for a problem set.
 file: /courses/6-867-machine-learning-fall-2006/ed619473758b9f30c8651d923df4e00b_strimage.m
+file_size: 257
 file_type: text/plain
 learning_resource_types:
 - Assignments

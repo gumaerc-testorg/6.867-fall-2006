@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on hidden Markov models.
 file: /courses/6-867-machine-learning-fall-2006/1ad9ace4da67d4c396fa56c250dc2b12_lec20.pdf
+file_size: 154003
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
