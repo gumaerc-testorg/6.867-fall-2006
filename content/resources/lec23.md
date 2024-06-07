@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on Markov random fields and probabilistic inference.
 file: /courses/6-867-machine-learning-fall-2006/b1139f1648df9d4cfe7fd4cc09c3b259_lec23.pdf
+file_size: 150947
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

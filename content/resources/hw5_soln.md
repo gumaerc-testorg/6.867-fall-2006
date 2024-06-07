@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set solutions.
 file: /courses/6-867-machine-learning-fall-2006/d76013505b6ecdd0be9abf1817c42d07_hw5_soln.pdf
+file_size: 92297
 file_type: application/pdf
 learning_resource_types:
 - Assignments

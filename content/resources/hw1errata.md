@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set errata.
 file: /courses/6-867-machine-learning-fall-2006/66f8a15c4d23616716c77c6b302161be_hw1errata.txt
+file_size: 1916
 file_type: text/plain
 learning_resource_types:
 - Assignments

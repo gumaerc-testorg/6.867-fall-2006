@@ -2,6 +2,7 @@
 content_type: resource
 description: Sample MATLAB? script.
 file: /courses/6-867-machine-learning-fall-2006/e24fa1516658ce746005759d17b9a441_matrix.m
+file_size: 1442
 file_type: text/plain
 learning_resource_types:
 - Tools

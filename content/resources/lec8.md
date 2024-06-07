@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on support vector machine (SVM), kernels, and kernel optimization.
 file: /courses/6-867-machine-learning-fall-2006/33a6c8e66c62602f9f03ab6a2c632eed_lec8.pdf
+file_size: 136565
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
