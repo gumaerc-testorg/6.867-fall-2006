@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes with an introduction to machine learning and discussion
   of linear classification and the perceptron update rule.
-file: /courses/6-867-machine-learning-fall-2006/d26f49e758fa83b40c8f22496c857f14_lec1.pdf
+file: /ol-ocw-studio-app/courses/6-867-machine-learning-fall-2006/d26f49e758fa83b40c8f22496c857f14_lec1.pdf
 file_size: 111566
 file_type: application/pdf
 learning_resource_types:

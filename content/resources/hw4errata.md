@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set errata.
-file: /courses/6-867-machine-learning-fall-2006/529d420e908f9cb259c1cb52bd26de99_hw4errata.txt
+file: /ol-ocw-studio-app/courses/6-867-machine-learning-fall-2006/529d420e908f9cb259c1cb52bd26de99_hw4errata.txt
 file_size: 2496
 file_type: text/plain
 learning_resource_types:

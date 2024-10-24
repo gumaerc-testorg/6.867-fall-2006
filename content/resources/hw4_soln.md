@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set solutions.
-file: /courses/6-867-machine-learning-fall-2006/ebc7892b924d0778dce0580bc121c9f2_hw4_soln.pdf
+file: /ol-ocw-studio-app/courses/6-867-machine-learning-fall-2006/ebc7892b924d0778dce0580bc121c9f2_hw4_soln.pdf
 file_size: 205004
 file_type: application/pdf
 learning_resource_types:
