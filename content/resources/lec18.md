@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on spectral clustering, random walks, and Markov chains.
-file: /courses/6-867-machine-learning-fall-2006/0871ac04afeb2df4e9b69738a6d0d38b_lec18.pdf
+file: /ol-ocw-studio-app/courses/6-867-machine-learning-fall-2006/0871ac04afeb2df4e9b69738a6d0d38b_lec18.pdf
 file_size: 167198
 file_type: application/pdf
 learning_resource_types:

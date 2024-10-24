@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on perceptron, convergence, and generalization.
-file: /courses/6-867-machine-learning-fall-2006/df535ce359aad52f48c203db64558fe8_lec2.pdf
+file: /ol-ocw-studio-app/courses/6-867-machine-learning-fall-2006/df535ce359aad52f48c203db64558fe8_lec2.pdf
 file_size: 122852
 file_type: application/pdf
 learning_resource_types:

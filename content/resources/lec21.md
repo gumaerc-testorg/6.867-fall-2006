@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on Bayesian networks.
-file: /courses/6-867-machine-learning-fall-2006/c0becfe9e6d659575a8c9e30b90f55dd_lec21.pdf
+file: /ol-ocw-studio-app/courses/6-867-machine-learning-fall-2006/c0becfe9e6d659575a8c9e30b90f55dd_lec21.pdf
 file_size: 363505
 file_type: application/pdf
 learning_resource_types:
