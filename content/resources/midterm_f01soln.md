@@ -2,7 +2,7 @@
 content_type: resource
 description: Solutions to a mid-term exam on machine learning and neural networks
   from Fall 2003.
-file: /ol-ocw-studio-app/courses/6-867-machine-learning-fall-2006/af6e5e8e769e8e4561393320c9e93db6_midterm_f01soln.pdf
+file: /courses/6-867-machine-learning-fall-2006/af6e5e8e769e8e4561393320c9e93db6_midterm_f01soln.pdf
 file_size: 147394
 file_type: application/pdf
 learning_resource_types:

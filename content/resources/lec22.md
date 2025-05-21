@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on learning Bayesian networks, maximum likelihood, BIC,
   and marginal likelihood.
-file: /ol-ocw-studio-app/courses/6-867-machine-learning-fall-2006/0b2ddf0b3af319e4b2dd204fec91da56_lec22.pdf
+file: /courses/6-867-machine-learning-fall-2006/0b2ddf0b3af319e4b2dd204fec91da56_lec22.pdf
 file_size: 187446
 file_type: application/pdf
 learning_resource_types:

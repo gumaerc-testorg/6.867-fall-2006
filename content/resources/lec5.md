@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on linear regression, estimator bias and variance, and
   active learning.
-file: /ol-ocw-studio-app/courses/6-867-machine-learning-fall-2006/9e7f8fb89d65d7572980907fd6d12315_lec5.pdf
+file: /courses/6-867-machine-learning-fall-2006/9e7f8fb89d65d7572980907fd6d12315_lec5.pdf
 file_size: 218778
 file_type: application/pdf
 learning_resource_types:

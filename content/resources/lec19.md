@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on Markov chains and hidden Markov models.
-file: /ol-ocw-studio-app/courses/6-867-machine-learning-fall-2006/bd962d39492e55697cfa6bb418ae1642_lec19.pdf
+file: /courses/6-867-machine-learning-fall-2006/bd962d39492e55697cfa6bb418ae1642_lec19.pdf
 file_size: 168362
 file_type: application/pdf
 learning_resource_types:
