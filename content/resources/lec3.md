@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on the support vector machine.
-file: /ol-ocw-studio-app/courses/6-867-machine-learning-fall-2006/c8442240a87cdacbb2b90f8b53393e9d_lec3.pdf
+file: /courses/6-867-machine-learning-fall-2006/c8442240a87cdacbb2b90f8b53393e9d_lec3.pdf
 file_size: 134580
 file_type: application/pdf
 learning_resource_types:
