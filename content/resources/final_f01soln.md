@@ -2,7 +2,7 @@
 content_type: resource
 description: Solutions to a final exam on machine learning and neural networks from
   Fall 2001.
-file: /ol-ocw-studio-app/courses/6-867-machine-learning-fall-2006/85d4ef5363a3445d33ca956c394beec6_final_f01soln.pdf
+file: /courses/6-867-machine-learning-fall-2006/85d4ef5363a3445d33ca956c394beec6_final_f01soln.pdf
 file_size: 217444
 file_type: application/pdf
 learning_resource_types:

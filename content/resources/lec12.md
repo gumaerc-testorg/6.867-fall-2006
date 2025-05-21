@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture notes on model selection criteria, feature subset selection,
   information criterion, conditional log-likelihood and description length, regularization,
   combination of classifiers, and boosting.
-file: /ol-ocw-studio-app/courses/6-867-machine-learning-fall-2006/fa94ca034b2700e553744c689fb9360e_lec12.pdf
+file: /courses/6-867-machine-learning-fall-2006/fa94ca034b2700e553744c689fb9360e_lec12.pdf
 file_size: 180790
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: MATLAB? script for a problem set.
-file: /ol-ocw-studio-app/courses/6-867-machine-learning-fall-2006/7299bbfeb0a9353f2a416e7da351828b_perceptron_train.m
+file: /courses/6-867-machine-learning-fall-2006/7299bbfeb0a9353f2a416e7da351828b_perceptron_train.m
 file_size: 591
 file_type: text/plain
 learning_resource_types:

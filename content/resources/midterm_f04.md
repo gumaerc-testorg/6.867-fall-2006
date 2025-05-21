@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Mid-term exam on machine learning and neural networks from Fall 2004.
-file: /ol-ocw-studio-app/courses/6-867-machine-learning-fall-2006/5ca07f780e61497d0da9137e218901a0_midterm_f04.pdf
+file: /courses/6-867-machine-learning-fall-2006/5ca07f780e61497d0da9137e218901a0_midterm_f04.pdf
 file_size: 254739
 file_type: application/pdf
 learning_resource_types:
