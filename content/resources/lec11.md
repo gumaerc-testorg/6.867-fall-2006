@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on model selection criteria, minimum description length
   (MDL), and feature (subset) selection.
-file: /courses/6-867-machine-learning-fall-2006/dd0fdf90cb4bb7f2a1b04358588ca506_lec11.pdf
+file: /ol-ocw-studio-app/courses/6-867-machine-learning-fall-2006/dd0fdf90cb4bb7f2a1b04358588ca506_lec11.pdf
 file_size: 165309
 file_type: application/pdf
 learning_resource_types:
