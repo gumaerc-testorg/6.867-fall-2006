@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Short tutorial on Lagrange multipliers.
-file: /courses/6-867-machine-learning-fall-2006/47e2537db9248268c9e20bbaa98f0c4b_lagrange.pdf
+file: /ol-ocw-studio-app/courses/6-867-machine-learning-fall-2006/47e2537db9248268c9e20bbaa98f0c4b_lagrange.pdf
 file_size: 91963
 file_type: application/pdf
 learning_resource_types:

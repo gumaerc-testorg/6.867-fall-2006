@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Data files for a problem set.
-file: /courses/6-867-machine-learning-fall-2006/111bf94c5cd20cdbc677ec8c53ea8cfa_prob1_data.zip
+file: /ol-ocw-studio-app/courses/6-867-machine-learning-fall-2006/111bf94c5cd20cdbc677ec8c53ea8cfa_prob1_data.zip
 file_size: 407185
 file_type: application/zip
 learning_resource_types:
