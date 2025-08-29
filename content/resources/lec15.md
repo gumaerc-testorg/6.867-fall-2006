@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on different types of mixture models, estimating mixtures,
   and the EM algorithm.
-file: /courses/6-867-machine-learning-fall-2006/a5a5b7b5a8c2eb7d7d23eac5c7f3a9af_lec15.pdf
+file: /ol-ocw-studio-app/courses/6-867-machine-learning-fall-2006/a5a5b7b5a8c2eb7d7d23eac5c7f3a9af_lec15.pdf
 file_size: 355230
 file_type: application/pdf
 learning_resource_types:
