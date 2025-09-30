@@ -334,7 +334,7 @@ Bayesian networks
 
 ### Optional
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262600323) Heckerman, David. "A Tutorial on Learning with Bayesian Networks." In [Learning in Graphical Models](https://mitpress.mit.edu/9780262600323) by Michael I. Jordan. Cambridge, MA: MIT Press, 1998. ISBN: 9780262600323.
+{{% resource_link "8184af53-76cf-4f32-b3c7-3934e096a3ec" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Heckerman, David. "A Tutorial on Learning with Bayesian Networks." In {{% resource_link "8184af53-76cf-4f32-b3c7-3934e096a3ec" "Learning in Graphical Models" %}} by Michael I. Jordan. Cambridge, MA: MIT Press, 1998. ISBN: 9780262600323.
 
 
 {{< tdclose >}}
@@ -406,7 +406,7 @@ Duda, Richard, Peter Hart, and David Stork. _Pattern Classification_. 2nd ed. Ne
 
 Hastie, T., R. Tibshirani, and J. H. Friedman. _The Elements of Statistical Learning: Data Mining, Inference and Prediction_. New York, NY: Springer, 2001. ISBN: 9780387952840.
 
-MacKay, David. _Information Theory, Inference, and Learning Algorithms_. Cambridge, UK: Cambridge University Press, 2003. ISBN: 9780521642989. Available on-line [here](http://www.inference.phy.cam.ac.uk/mackay/itila/book.html).
+MacKay, David. _Information Theory, Inference, and Learning Algorithms_. Cambridge, UK: Cambridge University Press, 2003. ISBN: 9780521642989. Available on-line {{% resource_link "9f583c77-c5d4-49a1-8259-4137e13ef9c9" "here" %}}.
 
 Mitchell, Tom. _Machine Learning_. New York, NY: McGraw-Hill, 1997. ISBN: 9780070428072.
 
